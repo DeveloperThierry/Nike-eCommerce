@@ -1,5 +1,6 @@
 # Nike's Full Stack eCommerce App
 
+![Cover Image](/public/Cover.jpg)
 
 This is a full-stack e-commerce application inspired by Nike's online store. The project is designed to showcase modern web development practices, leveraging a powerful and scalable stack. It includes features essential for a robust e-commerce platform, from product browsing and shopping cart functionality to user authentication and a secure checkout process. This application serves as a comprehensive example of building a production-ready, performant, and maintainable web service.
 
